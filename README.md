@@ -12,6 +12,8 @@
 - 支持关键事件标注，例如 Kimi 爆发增长、Claude 强势追击
 - 输出文件：`agent_dau_race.mp4`
 
+<video src="agent_dau_race.mp4" width="100%" controls="controls"></video>
+
 > 项目中的 DAU 数据为模拟数据，仅用于演示数据可视化流程，不代表真实市场统计结果。
 
 ## 项目结构
